@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a72e06b35bc2084a92374a0a4bebece, type: 3}
+  m_Name: InventoryItemData_5.45x39 mm
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 5.45x39 mm
+  <MaxStackSize>k__BackingField: 60
+  <SpriteInSlot>k__BackingField: {fileID: 21300000, guid: d45f0cae013abb84688afe6e4bc52845, type: 3}
+  <TypeOfItem>k__BackingField: 1
